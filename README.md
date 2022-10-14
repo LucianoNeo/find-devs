@@ -4,6 +4,8 @@
 [react-native-badge]: https://img.shields.io/static/v1?label=React%20Native&message=0.69&color=blue
 [acate-badge]: https://img.shields.io/static/v1?label=Acate&message=2022&color=blue
 
+![1664217215866](https://user-images.githubusercontent.com/16579699/195937334-30a65176-8d8c-4bcd-93e4-4246dc64865f.gif)
+
 <!-- Links -->
 
 [devfortech-url]: https://devfortech.corporate.gama.academy/
