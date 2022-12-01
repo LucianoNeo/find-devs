@@ -22,6 +22,13 @@
 
 Este projeto é requerimento obrigatório para obter o certificado a respeito de Desenvolvimento Móvel com React Native. O curso foi patrocinado pela Acate e ministrado pela Gama Academy.
 
+# Teste o Projeto em seu Android ou Iphone
+Para testar o aplicativo você deve baixar o aplicativo EXPO GO em seu smartphone.<br>
+Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US&pli=1 <br>
+IOS: https://apps.apple.com/br/app/expo-go/id982107779 <br>
+Após a instalação do EXPO GO, abra o aplicativo e clique na opção SCAN QR CODE e aponte para o qrcode abaixo, deste modo já poderá testar o FINDDEVS!<br>
+<div style="text-align:center"><img src='https://user-images.githubusercontent.com/16579699/205071890-92f1ab3d-274d-4273-90eb-6b12c41134b0.png'</div>
+
 # Grade Curricular
 
 A grade curricular do curso contempla:
